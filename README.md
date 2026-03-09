@@ -8,8 +8,8 @@ It is commonly used in maps, robotics, and games.
 	The Apriori Algorithm is used for Market Basket Analysis.
 It finds items that frequently occur together in transactions.
 
-3.Genetic Algorithm
+	3.Genetic Algorithm
 
-  A Genetic Algorithm solves problems using evolution concepts:
+  	A Genetic Algorithm solves problems using evolution concepts:
 Population, Selection, Crossover and Mutation
 Goal: find the best solution over generations.
